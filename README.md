@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SooJung Lee
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning React, TypeScript
+- 🌱 I’m currently learning React & TypeScript
 - 💞️ I've worked as a web engineer for more than 2 years (since January 2019)
 - 📫 Please reach me via my email (leecrystal1229d@gmail.com)
 - Tech Stacks
