@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @crystal1229d
+- 👋 Hi, I’m SooJung Lee
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React, TypeScript
+- 💞️ I've worked as a web engineer for three years (since January 2019)
+- 📫 Please reach me via my email (leecrystal1229d@gmail.com)
 
 <!---
 crystal1229d/crystal1229d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
