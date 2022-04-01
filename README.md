@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SooJung Lee
 - 👀 I’m interested in FrontEnd
 - 🌱 I’m currently learning React & TypeScript
-- 💞️ I've worked as an web engineer for more than 2 years (since January 2019)
+- 💞️ I've worked as an web engineer for more than 4 years (since January 2019)
 - 📫 Please reach me via my email (leecrystal1229d@gmail.com)
 - Tech Stacks
 <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
