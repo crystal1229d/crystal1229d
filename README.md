@@ -10,4 +10,6 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal1229d&layout=compact)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal1229d&layout=compact)
+</div>
