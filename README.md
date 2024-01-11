@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-<h3>Soojung Lee (crystal)</h3>
+<h2>Soojung Lee (crystal)</h2>
 <p>Frontend Engineer</p>
 </div>
 
