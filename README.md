@@ -5,12 +5,9 @@
 - 📫 Please reach me via my email (leecrystal1229d@gmail.com)
 
 <p align="center">
-  Tech Stacks
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,recoil,php,mysql,styledcomponents" />
   </a>
 </p>
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal1229d&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal1229d&layout=compact)
