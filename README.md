@@ -5,6 +5,7 @@
 - 📫 Please reach me via my email (leecrystal1229d@gmail.com)
 
 <p align="center">
+  Tech Stacks
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,recoil,php,mysql,styledcomponents" />
   </a>
