@@ -5,7 +5,9 @@
 <p>Frontend Engineer</p>
 </div>
 
+<div align="center">
 📄 [Resume](crystal1229d.github.io/resu-folio/)
+</div>
 
 <br/>
 
