@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📄 [Resume](crystal1229d.github.io/resu-folio/)
+📄 <a href="https://crystal1229d.github.io/resu-folio/">Resume</a>
 
 </div>
 
